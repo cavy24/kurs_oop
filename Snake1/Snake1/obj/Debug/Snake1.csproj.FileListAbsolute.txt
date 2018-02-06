@@ -1,0 +1,7 @@
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\bin\Debug\Snake1.exe.config
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\bin\Debug\Snake1.exe
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\bin\Debug\Snake1.pdb
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\obj\Debug\Snake1.csprojResolveAssemblyReference.cache
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\obj\Debug\Snake1.csproj.CoreCompileInputs.cache
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\obj\Debug\Snake1.exe
+C:\Users\Лена\documents\github\kurs_oop\Snake1\Snake1\obj\Debug\Snake1.pdb
