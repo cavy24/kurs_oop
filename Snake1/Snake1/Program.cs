@@ -34,6 +34,6 @@ namespace Snake1
             Console.ReadLine();
         }
         
-        }
+        
     }
 }
